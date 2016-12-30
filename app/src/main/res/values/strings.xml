@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">تبرعات</string>
+    <string name="click_string">تم التبرع شكرا لك</string>
+    <string name="buy_string">تبرع الآن</string>
+</resources>
